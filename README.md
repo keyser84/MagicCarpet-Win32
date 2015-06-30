@@ -1,5 +1,5 @@
-Magic Carpet Battle Arena
--------------------------
+Magic Carpet Battle Arena (Windows version)
+-------------------------------------------
 An Irrlicht-based game where two players ride magic carpets and fight against each other in a small arena.
 
 
